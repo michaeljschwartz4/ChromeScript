@@ -21,7 +21,7 @@ template() {
 
 # Example to show -template2 command
 template2() {
-    openChrome "https://https://t3.ftcdn.net/jpg/05/06/73/60/360_F_506736001_7mnplZMvVhfUmOU1VaSBnYv6T7TSPPhF.jpg"
+    openChrome "https://t3.ftcdn.net/jpg/05/06/73/60/360_F_506736001_7mnplZMvVhfUmOU1VaSBnYv6T7TSPPhF.jpg"
 }
 
 # Allows you to open specific groups of tabs if desired!
