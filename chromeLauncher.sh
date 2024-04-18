@@ -29,7 +29,7 @@ template2() {
 if [ "$1" == "-template" ]; then
     template
 elif [ "$1" == "-template2" ]; then
-    open422
+    template2
 else
     echo "Usage: $0 -template1 | -template2" # Replace template1 and template2 with the commands you create
 fi;
